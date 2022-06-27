@@ -33,6 +33,10 @@ https://www.roblox.com/games/10017027651/Arresting-System
 
 https://www.roblox.com/games/9159105555/Sword-Fighting-Test
 
+(Flashbang throwing system, you press E and you can flashbang other players, or yourself) 
+
+https://www.roblox.com/games/7600688424/flashbang
+
 # Availability
 
 I am usually always on my computer. I don't like coding 24/7 as I'll just end up getting burnt out and taking months off coding which will make me rusty, it has happen before. I try to code at least for 2-3 hours a day minimum, working on any commissions I have. The queue for commissions is pretty much like a first come first serve system. I work on the first jobs I get, then once that one is done I move on to the next. If you hire me for a long term commission, sometimes I will work on somethinh small, then move to a short term job I have. On the weekdays, since it is currently summer, I pretty much got the entire day to get online and start coding, and on weekends I may be busy here and there but usually I am still on the same amount of time. When school starts, my schedule will be changed a little bit, and I may not be on all day like I currently am, but still will be on to code for at least 2 hours a day.
