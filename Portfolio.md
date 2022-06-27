@@ -18,7 +18,7 @@ Now, I know what you're thinking
 
 Below are a few examples that I have worked on over the years. Some are old and some are recent, so take them with a grain of salt. With every commission, I strive to produce better and better end products with every job I take on.
 
-#### Egg hatching system that allows you to hatch pets, equip them, and having a working inventory system. Most is not done as the commissioner cancelled mid-project
+#### Egg hatching system that allows you to hatch pets, equip them, and having a working inventory system. Most is not done as the commissioner cancelled mid-project, Walk up to the egg and press E
 
 https://www.roblox.com/games/6433833747/eggggggggggggggggggggggg
 
