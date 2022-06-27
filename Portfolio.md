@@ -23,19 +23,19 @@ Below are a few examples that I have worked on over the years. Some are old and 
 https://www.roblox.com/games/6433833747/eggggggggggggggggggggggg
 
 
-(Arresting system. Only works with two players. It allows for arresting players, booking in jail, and breaking out of said jail.)
+#### Arresting system. Only works with two players. It allows for arresting players, booking in jail, and breaking out of said jail.
 
-If you don't have someone else to test it with you, here is a short video I made demonstrating what it does. 
+#### If you don't have someone else to test it with you, here is a short video I made demonstrating what it does. 
 
 https://www.youtube.com/watch?v=p9R51qr5cfQ
 
 https://www.roblox.com/games/10017027651/Arresting-System
 
-(Sword fighting system. I started this but got lazy and never finished it. Q to equip the Katana, and left click to attack. Animations not made by me, I found them in a free model)
+#### Sword fighting system. I started this but got lazy and never finished it. Q to equip the Katana, and left click to attack. Animations not made by me, I found them in a free model
 
 https://www.roblox.com/games/9159105555/Sword-Fighting-Test
 
-(Flashbang throwing system, you press E and you can flashbang other players, or yourself) 
+#### Flashbang throwing system, you press E and you can flashbang other players, or yourself
 
 https://www.roblox.com/games/7600688424/flashbang
 
